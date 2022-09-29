@@ -1,0 +1,12 @@
+name: kerasod
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - tensorflow
+  - numpy
+  - pandas
+  - jupyter
+  - nbconvert
+  - ipykernel
